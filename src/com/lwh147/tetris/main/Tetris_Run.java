@@ -20,10 +20,10 @@
  *     Action_setkeylistener：设置按键监听器
  *     Action_run：控制游戏运行的主要逻辑
  */
-package Tetris_Main;
+package com.lwh147.tetris.main;
 
-import Tetris_Basic.BasicBlock;
-import Tetris_Basic.BasicShape;
+import com.lwh147.tetris.basic.BasicBlock;
+import com.lwh147.tetris.basic.BasicShape;
 
 import javax.swing.*;
 import java.awt.event.KeyAdapter;

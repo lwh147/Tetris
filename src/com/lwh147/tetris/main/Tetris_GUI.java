@@ -14,10 +14,10 @@
  * 		paintGameState：绘制游戏状态区域
  * 		paintGameOperation：绘制游戏操作说明
  */
-package Tetris_Main;
+package com.lwh147.tetris.main;
 
-import Tetris_Basic.BasicBlock;
-import Tetris_Basic.BasicShape;
+import com.lwh147.tetris.basic.BasicBlock;
+import com.lwh147.tetris.basic.BasicShape;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

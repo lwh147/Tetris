@@ -11,7 +11,7 @@
  * 		move_right：右移一个单位
  * 		move_down：下移一个单位
  */
-package Tetris_Basic;
+package com.lwh147.tetris.basic;
 
 import java.awt.image.BufferedImage;
 

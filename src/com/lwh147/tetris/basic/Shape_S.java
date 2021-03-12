@@ -5,9 +5,9 @@
  * 		直接按照组成该形状的四个方块的坐标信息及内容对shape进行初始化
  * 		规定S型形状有四个旋转状态，初始化states，指定四种状态下的各个方块相对坐标信息
  */
-package Tetris_Basic;
+package com.lwh147.tetris.basic;
 
-import Tetris_Main.Tetris_GUI;
+import com.lwh147.tetris.main.Tetris_GUI;
 
 public class Shape_S extends BasicShape {
 	public Shape_S(){

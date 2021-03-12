@@ -14,7 +14,7 @@
  *		rorate_ccw：形状逆时针旋转
  *		random_generate_shape：随机生成一种形状
  */
-package Tetris_Basic;
+package com.lwh147.tetris.basic;
 
 
 public class BasicShape {
