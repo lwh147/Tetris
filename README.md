@@ -1,7 +1,7 @@
-# Tetris
+# tetris
 
-> Project encoding is GBK
+> 项目编码是GBK
 
-## Details
+## 介绍
 
-> A tetris game written by java.
+一个用Java写的俄罗斯方块小游戏
